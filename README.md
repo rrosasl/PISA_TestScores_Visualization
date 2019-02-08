@@ -23,3 +23,9 @@ This dataset contains > 500k rows of data and >600 columns, which means it is a
 
 The data set can be downloaded [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1549035434262000)
 
+## Main Findings
+- Test results are normally distributed and are similar across reading, maths, and science, 
+- Oceania is the continent with the highest average scores
+- Singapore is the country with the most students in the top 50
+- Those who strongly agree that doing well is completely up to me do not perform significantly better than those who do not
+
