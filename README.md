@@ -8,7 +8,7 @@ It explores 500k rows of data from the PISA test worlwide to visually explore re
 Udacity Nanodegree: https://eu.udacity.com/course/data-analyst-nanodegree--nd002
 
 ## Requirements
-0 Python 3
+- Python 3
 - Matplotlib
 - Pandas
 - Numpy
